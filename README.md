@@ -1,6 +1,10 @@
 # SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network
 
-## The following is the process of "Alignment Pre training+Dula Loss Fine tuning" for training SpikeCLIP.
+Accepted by Neural Network, Volume 188, 107475, 2025.08.
+
+https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545
+
+## The following is the process of "Alignment Pre-training + Dula Loss Fine-tuning" for training SpikeCLIP.
 
 ![Example Image](./pictures/workflow.png)
 
@@ -60,4 +64,5 @@ bash bash/{dataset_name}.sh
 ## Notes
 
 - You can download and construct all the required datasets through clip_eval.py.
-- Shell commands above only show how to run the program.Detailed hyperparameters can be set as needed.
+- Shell commands above only show how to run the program.
+- Detailed hyperparameters can be set as needed.
