@@ -1,6 +1,6 @@
 # SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network
 
-Accepted by Neural Network, Volume 188, 107475, 2025.08.
+Accepted by Neural Networks, Volume 188, 107475, 2025.08.
 
 https://www.sciencedirect.com/science/article/abs/pii/S0893608025003545
 
